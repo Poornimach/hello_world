@@ -1,2 +1,3 @@
 # hello_world
-just another repository
+ Hi all.
+ Poornima here.I like python.This is my first repository.
